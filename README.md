@@ -1,5 +1,7 @@
 # KVR_Sound_Chemical_MinstrelFolkVST_Source_Compiled
 
+<img width="520" height="300" alt="image" src="https://github.com/user-attachments/assets/1c153873-d935-4351-ba63-7b84df7072c2" />
+
 Windows VST3 build of the GPT-generated **Minstrel Folk** source that [Sound Chemical](https://www.kvraudio.com/forum/viewtopic.php?p=9313048#p9313048) posted on KVR Audio (16 Oct 2026).
 
 The original author asked someone to compile the files into a Windows VSTi and said ownership was not a concern. This repo is that compile, plus the source as posted.
